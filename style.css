@@ -1,0 +1,17 @@
+ul{
+    background: gray;
+    display: flex;
+    height: 30px; 
+    border-radius: 10px;
+    
+}
+ul li{
+    list-style-type: none;
+    width: 500px;
+    text-align: center;
+}
+ ul li:hover{
+     background: green;
+     font-size: 20px;
+     
+ }
